@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Leonardo Ng De Pedro
+A dedicated Python & Data learner in the making
+🔭 I’m currently working on personal finance tracker
 
-<!--
-**LeoDataLab/LeoDataLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Python · pandas · Jupyter
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on Data & fintech projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 All of my projects are available at https://github.com/LeoDataLab
+
+📫 How to reach me leodepedro3@gmail.com
+
+⚡ Fun fact Besides coding and analyze, I enjoy stuying financial markets
+
+Connect with me:
+@parkerinvest_ leonardo ng de pedro
+
+Languages and Tools:
+azure mysql postgresql python
